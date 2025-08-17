@@ -46,7 +46,7 @@ Student-Marks-Management/
 
 Clone the repository:
 
-git clone https://github.com/BilawalHussain/student-marks-management.git
+git clone https://github.com/Bilawal538/student-marks-management.git
 
 
 Navigate to the project folder:
@@ -74,11 +74,7 @@ Contributions, issues, and feature requests are welcome!
 Feel free to fork the repo and submit pull requests.
 
 👨‍💻 Author
-
 Bilawal Hussain
-
-📧 Email: hussainbilawal538@gmail.com
-
-💻 GitHub: [Your GitHub Profile]
-
-🌐 Portfolio: [Your Portfolio Link]
+💌 Email: hussainbilawal538@gmail.com
+🔗 GitHub: https://github.com/Bilawal538
+🌐 Portfolio: https://bilawalhussainportfolio.com
